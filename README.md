@@ -1,0 +1,1 @@
+A simple fabric mod that logs some global/individual stats to Firebase.

@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.serverstats.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"PlayerDeathMixin",
+		"BlockPlacedMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
